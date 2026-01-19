@@ -15,10 +15,10 @@ jobs:
     name: Zip and Upload Binaries
     runs-on: macos-14
     steps:
-      # 1️⃣ Checkout ветки, которая инициирует релиз
+      # 1️⃣ Checkout: используем ветку с исправленным ci.py
       - uses: actions/checkout@v3
         with:
-          ref: ${{ github.ref }}
+          ref: main  # <-- ветка с новым ci.py
 
       # 2️⃣ Импорт сертификатов для codesign
       - uses: apple-actions/import-codesign-certs@v3
