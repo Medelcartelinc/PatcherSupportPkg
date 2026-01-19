@@ -65,22 +65,42 @@ def signing_sanity_checks(file: Path) -> tuple[bool, bool]:
             print(f"ERROR: {file} is not a 64-bit Mach-O")
             return False, False
 
-    result = subprocess.run(["codesign", "-dvvv", file], stdout=subprocess.PIPE, stderr=subprocess.PIPE, check=False)
+    result = subprocess.run(
+        ["codesign", "-dvvv", file],
+        stdout=subprocess.PIPE,
+        stderr=subprocess.PIPE,
+        check=False,
+    )
     if result.returncode != 0 and "not signed at all" not in result.stderr.decode():
         raise RuntimeError(f"codesign failed ({result.returncode}): {result.stderr.decode()}")
 
-    # Если подпись отсутствует или adhoc — подписываем
     return True, True
+
+
+def codesign(path: Path):
+    subprocess.check_output(["codesign", "-f", "-s", IDENTITY, str(path)])
 
 
 def sign_macho(file: Path):
     print(f"Signing (ad-hoc): {file}")
-    subprocess.check_output([
-        "codesign", "-f", "-s", IDENTITY,
-        "--preserve-metadata=entitlements",
-        "--generate-entitlement-der",
-        file
-    ])
+    file = Path(file)
+
+    for parent in file.parents:
+        if parent.suffix == ".kext":
+            kext = parent
+
+            plugins = kext / "Contents" / "PlugIns"
+            if plugins.exists():
+                for subkext in plugins.glob("*.kext"):
+                    print(f"Signing sub-kext: {subkext}")
+                    codesign(subkext)
+
+            # 2. Подписываем основной kext
+            print(f"Signing kext bundle: {kext}")
+            codesign(kext)
+            return
+
+    codesign(file)
 
 
 if __name__ == "__main__":
