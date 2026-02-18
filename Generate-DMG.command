@@ -58,7 +58,7 @@ class GenerateDiskImage:
                 "-srcfolder", UB_DIRECTORY,
                 "tmp.dmg",
                 "-volname", DMG_VOLNAME,
-                "-fs", "HFS+",
+                "-fs", "APFS",
                 "-format", DMG_FORMAT,
                 "-megabytes", DMG_SIZE,
                 "-ov"
