@@ -10,154 +10,154 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ascjoed0KwoQGYGbGBPmWsoAucY=
+			gH6MstJMLdii4ZF0JyUKwXZEXDk=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBEHCI" and anchor apple</string>
+			<string>cdhash H"56c7ce788813f28379d8db21e163e7059e50af76" or cdhash H"807e8cb2d24c2dd8a2e1917427250ac176445c39"</string>
 		</dict>
 		<key>PlugIns/AppleUSBEHCIPCI.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2+qulde1pb7oKdXt73HWOpf2wA4=
+			v4/5ojNW4cl5W/4Kh0Ufvn1+1Ok=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBEHCIPCI" and anchor apple</string>
+			<string>cdhash H"3e90e326e4fcfb6cfda7098446ef24570091dd00" or cdhash H"bf8ff9a23356e1c9795bfe0a87451fbe7d7ed4e9"</string>
 		</dict>
 		<key>PlugIns/AppleUSBHostBillboardDevice.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			jkNGa2OcNpLJz/Fz3CMFjhlZEhM=
+			me0Z6x0nzSF+PIq4lD7ocR/Hu/s=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBHostBillboardDevice" and anchor apple</string>
+			<string>cdhash H"5ec0f23c44d4b1e4925bf9d19d6d4ab6d2af2613" or cdhash H"99ed19eb1d27cd217e3c8ab8943ee8711fc7bbfb"</string>
 		</dict>
 		<key>PlugIns/AppleUSBHostCompositeDevice.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			KmB7j82zkFbhrbeSUzv6gjH/LnI=
+			mUHv4qtsINkRCvXYbqwarz2eDHY=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBHostCompositeDevice" and anchor apple</string>
+			<string>cdhash H"1c9c4d2ab999bf60cfbab4abc7dcbb1b174c9f64" or cdhash H"9941efe2ab6c20d9110af5d86eac1aaf3d9e0c76"</string>
 		</dict>
 		<key>PlugIns/AppleUSBHostMergeProperties.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			pX73bslrypMbq83yYA8kmnn8U0U=
+			C4s6Ou6syHBX+Hz8D4KrceqDMdQ=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.AppleUSBHostMergeProperties" and anchor apple</string>
+			<string>cdhash H"1a32f28f04f3fc653e5c5297fe2ecfc1ee44c8ec" or cdhash H"0b8b3a3aeeacc87057f87cfc0f82ab71ea8331d4"</string>
 		</dict>
 		<key>PlugIns/AppleUSBHostPacketFilter.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			4ByJYl+7HaUjgCx6IGohiX2NArE=
+			zGdUp/lLiq2RHhyNHT+BJD3Gdi4=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBHostPacketFilter" and anchor apple</string>
+			<string>cdhash H"5073c0ec191bef43a0cdade5ac5a3bea1f55d86f" or cdhash H"cc6754a7f94b8aad911e1c8d1d3f81243dc6762e"</string>
 		</dict>
 		<key>PlugIns/AppleUSBHostPlatformProperties.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			n2B4/yCspBg9nDP9kp6AlN/zMrI=
+			H/C0ZqmbjybNj+WfWZ3K373W1cc=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBHostPlatformProperties" and anchor apple</string>
+			<string>cdhash H"b34eef6e62f8d89d41c1f45a0be52599d99bdc5a" or cdhash H"1ff0b466a99b8f26cd8fe59f599dcadfbdd6d5c7"</string>
 		</dict>
 		<key>PlugIns/AppleUSBHub.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			SpK5WEwYyoiYl4SZ7OjZ4VFJsEI=
+			GTS2DWs8sVGtwLU1U2UkotPp5DE=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBHub" and anchor apple</string>
+			<string>cdhash H"0c2603a305b45d44d8f3893f508a95259574be86" or cdhash H"1934b60d6b3cb151adc0b535536524a2d3e9e431"</string>
 		</dict>
 		<key>PlugIns/AppleUSBMergeNub.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Jo5y1RuoM7zqkFo57g1Lu4KEhUU=
+			+hQ/Lu5VtKb9LtOfQSOIH8/T2XA=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.AppleUSBMergeNub" and anchor apple</string>
+			<string>cdhash H"727ea63a05d4fed8ef800de9c821f15929b3c2d5" or cdhash H"fa143f2eee55b4a6fd2ed39f4123881fcfd3d970"</string>
 		</dict>
 		<key>PlugIns/AppleUSBOpticalMouse.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xJLJQqDVLbPgXcU3uXjKTig8OYY=
+			moQF81DhvYAvbpGO+Kj86uwjPOw=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBOpticalMouse" and anchor apple</string>
+			<string>cdhash H"9c59f03a04618d348d245c10fdaf564191885500" or cdhash H"9a8405f350e1bd802f6e918ef8a8fceaec233cec"</string>
 		</dict>
 		<key>PlugIns/AppleUSBUserHCI.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			fGbfZc3csBcb75VDkR2oCqKKOts=
+			yIZI8ffbolbEwD1YChkBwpapWqw=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBUserHCI" and anchor apple</string>
+			<string>cdhash H"4f0ac1cd767ad1b15befbdf091ce936a93ea962e" or cdhash H"c88648f1f7dba256c4c03d580a1901c296a95aac"</string>
 		</dict>
 		<key>PlugIns/AppleUSBVHCI.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			24xqMG0ylAKoCMfWDUUAjMSLHbo=
+			o0idWrUcHtHMGMymhkoI317ZP6Y=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBVHCI" and anchor apple</string>
+			<string>cdhash H"59ba41d5b9f7e74af793c11b273cf1e34d783101" or cdhash H"a3489d5ab51c1ed1cc18cca6864a08df5ed93fa6"</string>
 		</dict>
 		<key>PlugIns/AppleUSBVHCIBCE.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			SstoL+BNaRsqZVti9GktRBsDqNk=
+			3EeNtlT8l+ZvBJw/YfO6MlKDHp8=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBVHCIBCE" and anchor apple</string>
+			<string>cdhash H"9334d6e7efe87876e95486d8d6d7f0db56a59ca5" or cdhash H"dc478db654fc97e66f049c3f61f3ba3252831e9f"</string>
 		</dict>
 		<key>PlugIns/AppleUSBXHCI.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			TKSvEh7br1Kkjj/S4MiHxB6Vtgc=
+			4l5eSpokWxHkgQyySvwXAfNJMUE=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBXHCI" and anchor apple</string>
+			<string>cdhash H"8667da603bba59424c85b1098ecef9ad60c07bdc" or cdhash H"e25e5e4a9a245b11e4810cb24afc1701f3493141"</string>
 		</dict>
 		<key>PlugIns/AppleUSBXHCIPCI.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			iJKn/Km4FVdDZ1620yhZwxZPY5g=
+			l9kYfe85zGYgSQw+4V4bwlwyHN0=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.AppleUSBXHCIPCI" and anchor apple</string>
+			<string>cdhash H"5fc8c4ab667e43f343d16aeb2745fa74d91f2799" or cdhash H"97d9187def39cc6620490c3ee15e1bc25c321cdd"</string>
 		</dict>
 		<key>PlugIns/IOUSBHostHIDDevice.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			6yMKUIcBUQttLLsLOH77E32kwQM=
+			lIDIRs1HDKRLLafJEMGMCg7gz4I=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.IOUSBHostHIDDevice" and anchor apple</string>
+			<string>cdhash H"606debcb66b6fe9a275739787bc3d592c9cbee36" or cdhash H"9480c846cd470ca44b2da7c910c18c0a0ee0cf82"</string>
 		</dict>
 		<key>PlugIns/IOUSBHostHIDDeviceSafeBoot.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			hX0dRBd4UhDkvi+/YWYUlhdKN7E=
+			P9+dHkxaljHS2obmaKWOvbubiC8=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.usb.IOUSBHostHIDDeviceSafeBoot" and anchor apple</string>
+			<string>cdhash H"0af4af966e1033c71a83011975ef4cba9899ac2d" or cdhash H"3fdf9d1e4c5a9631d2da86e668a58ebdbb9b882f"</string>
 		</dict>
 		<key>PlugIns/IOUSBLib.bundle</key>
 		<dict>

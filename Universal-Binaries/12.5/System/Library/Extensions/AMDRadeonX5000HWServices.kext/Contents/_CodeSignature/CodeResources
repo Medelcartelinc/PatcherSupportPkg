@@ -3,34 +3,174 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict/>
+	<dict>
+		<key>version.plist</key>
+		<data>
+		qOD5mRpJvjbTwq98EUrvUAnqfZ8=
+		</data>
+	</dict>
 	<key>files2</key>
-	<dict/>
+	<dict>
+		<key>PlugIns/AMDRadeonX5000HWLibs.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			uvPgJ58UYMo1dgpFzOzkRXYw0K8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"6810b51adef01775fca00b9ac5f38a0fe8f52ddb" or cdhash H"baf3e0279f1460ca35760a45ccece4457630d0af"</string>
+		</dict>
+		<key>PlugIns/AMDRadeonX5100HWLibs.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			JLE22N88+QIRx/divWCNQ7RnqGs=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"9a04d174913072cc65560960924c0d12ed1dc9f7" or cdhash H"24b136d8df3cf90211c7f762bd608d43b467a86b"</string>
+		</dict>
+		<key>PlugIns/AMDRadeonX5200HWLibs.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KG1E64aPsjAMrEyc8vTpwTg44Yw=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"f2b8b3e7f866ae19c213aa47bf96c4b2645b7071" or cdhash H"286d44eb868fb2300cac4c9cf2f4e9c13838e18c"</string>
+		</dict>
+		<key>PlugIns/AMDRadeonX5400HWLibs.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			cMeDELlVSFDHchzQh7e3x7g+Eig=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"46bef57c898dfe2dc536637ad3df6c0ebdf58c31" or cdhash H"70c78310b9554850c7721cd087b7b7c7b83e1228"</string>
+		</dict>
+		<key>PlugIns/AMDRadeonX5700HWLibs.kext</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			zn06EJuBmwbQ6eKKefETdrmoFLg=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"21dc41aff9ff5a16be98d5a10e7e7f67672f0762" or cdhash H"ce7d3a109b819b06d0e9e28a79f11376b9a814b8"</string>
+		</dict>
+		<key>version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qOD5mRpJvjbTwq98EUrvUAnqfZ8=
+			</data>
+			<key>hash2</key>
+			<data>
+			6A9zmKa26viK0qRnkUJl1LDhiyU7q9ziG0QjRoUlIP4=
+			</data>
+		</dict>
+	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^PlugIns/</key>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>200</real>
+			<real>1100</real>
 		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
 	</dict>
 	<key>rules2</key>
 	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
 		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
 		<dict>
 			<key>nested</key>
 			<true/>
 			<key>weight</key>
-			<real>0.0</real>
+			<real>10</real>
 		</dict>
-		<key>^PlugIns/</key>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>200</real>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
 		</dict>
 	</dict>
 </dict>
