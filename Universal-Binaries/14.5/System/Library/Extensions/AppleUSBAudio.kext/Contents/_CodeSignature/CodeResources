@@ -1066,10 +1066,6 @@
 	<dict>
 		<key>Resources/ar.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1079,10 +1075,6 @@
 		</dict>
 		<key>Resources/ar.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZWRcn9y2ykgmuj6Nazf+1u7mPCs=
-			</data>
 			<key>hash2</key>
 			<data>
 			wJ/IR7wwbxQ4X2gIDInUBLG1AjWg5gXKp/B3Goop/iE=
@@ -1092,10 +1084,6 @@
 		</dict>
 		<key>Resources/ar.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s2OxSzXxF4XRlrxa7NHoZy2A9qU=
-			</data>
 			<key>hash2</key>
 			<data>
 			aQMNo6ZDsHyLAPEUcAsEZEmatB+SwVjOjS81Cw8YsmY=
@@ -1105,10 +1093,6 @@
 		</dict>
 		<key>Resources/ca.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1118,10 +1102,6 @@
 		</dict>
 		<key>Resources/ca.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7sUdSHVXf+KHh1AeztrpkAL/sFw=
-			</data>
 			<key>hash2</key>
 			<data>
 			pB8FVCi3BzMhON+VWGRQ95eGc+GnyH3IiVmxP2sOv+g=
@@ -1131,10 +1111,6 @@
 		</dict>
 		<key>Resources/ca.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uRmJR5E9uXf7uLQwPIhuS1JhISU=
-			</data>
 			<key>hash2</key>
 			<data>
 			GseldF271r7IPL74LQ3daMVwJJT0P5FXmWw/zYn38zE=
@@ -1144,10 +1120,6 @@
 		</dict>
 		<key>Resources/cs.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1157,10 +1129,6 @@
 		</dict>
 		<key>Resources/cs.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VETcZRuazdO9GZKRtwTnyZJU18o=
-			</data>
 			<key>hash2</key>
 			<data>
 			YGJ44qmLefLbdwAbBt/IevxxRbxSvkEUCcaFN8Y7JLQ=
@@ -1170,10 +1138,6 @@
 		</dict>
 		<key>Resources/cs.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QHNa8VSEB0yPgxVo7TN3nyP6jn8=
-			</data>
 			<key>hash2</key>
 			<data>
 			YnsJhvF4L49WZKKGhVU6/12Z4FVmgtwyq5yodsZ3BDE=
@@ -1183,10 +1147,6 @@
 		</dict>
 		<key>Resources/da.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1196,10 +1156,6 @@
 		</dict>
 		<key>Resources/da.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xnxfAPZrXRT0ZfS2v8OWF3JYtXA=
-			</data>
 			<key>hash2</key>
 			<data>
 			V79WkuDqoEQPylavOjaipzGCMu9PYRF8JzvjydKoUws=
@@ -1209,10 +1165,6 @@
 		</dict>
 		<key>Resources/da.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			olTpjripEs+M297WKUR4MRqmWiU=
-			</data>
 			<key>hash2</key>
 			<data>
 			hWQyUrTiEjG4P8sXreNnpvAV0ub+5DenXNHWEQEWmV8=
@@ -1222,10 +1174,6 @@
 		</dict>
 		<key>Resources/de.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1235,10 +1183,6 @@
 		</dict>
 		<key>Resources/de.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sfNbPrcgqF8k5B52QU7xqpWN0nk=
-			</data>
 			<key>hash2</key>
 			<data>
 			a7/+KBTNSM40j+2Isu+msetwMnWG3jzjuff6/XDHsZQ=
@@ -1248,10 +1192,6 @@
 		</dict>
 		<key>Resources/de.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oNw7MSpXs8Ko9NwmCXiOWUGUWQI=
-			</data>
 			<key>hash2</key>
 			<data>
 			6yMCJjY51FeTntuDMnEtuQiFCsAI740qMZfDzbuoT9k=
@@ -1261,10 +1201,6 @@
 		</dict>
 		<key>Resources/el.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1274,10 +1210,6 @@
 		</dict>
 		<key>Resources/el.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fit0QoQ4ioQN8y3YPvDkJyCczxA=
-			</data>
 			<key>hash2</key>
 			<data>
 			g2xL4H6cC9WbUq3/XmErPCvdjlyqJREIHIoDDFhjKBY=
@@ -1287,10 +1219,6 @@
 		</dict>
 		<key>Resources/el.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kqU6yyO0aNItHfedT9RuNzgCcls=
-			</data>
 			<key>hash2</key>
 			<data>
 			DSxeEACaBdzYwcdxTQRUYR+WYEqwJqetGG31mErfco8=
@@ -1300,10 +1228,6 @@
 		</dict>
 		<key>Resources/en.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1313,10 +1237,6 @@
 		</dict>
 		<key>Resources/en.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LxUbPSwRO7/9UOxXCnh4c+Y2Vqc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Sj0EJ5y7ddWumFkev14KBdPk7m+vrV19e4edjSUfb+w=
@@ -1326,10 +1246,6 @@
 		</dict>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WxNltQMTVhodabWXCpGzzmA3t0w=
-			</data>
 			<key>hash2</key>
 			<data>
 			wTscko7qmXUDJFjXD4Y4CZ9XvVamJ04gaA3cf23W4lg=
@@ -1339,10 +1255,6 @@
 		</dict>
 		<key>Resources/en_AU.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1352,10 +1264,6 @@
 		</dict>
 		<key>Resources/en_AU.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LxUbPSwRO7/9UOxXCnh4c+Y2Vqc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Sj0EJ5y7ddWumFkev14KBdPk7m+vrV19e4edjSUfb+w=
@@ -1365,10 +1273,6 @@
 		</dict>
 		<key>Resources/en_AU.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/9nhrQ10+z3pDdCLjDSSFaLAmQk=
-			</data>
 			<key>hash2</key>
 			<data>
 			LAd2zEIUBQdEBgJTT5fJ+aXQCoP0Nq+ESydJ1yr4HME=
@@ -1378,10 +1282,6 @@
 		</dict>
 		<key>Resources/en_GB.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1391,10 +1291,6 @@
 		</dict>
 		<key>Resources/en_GB.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LxUbPSwRO7/9UOxXCnh4c+Y2Vqc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Sj0EJ5y7ddWumFkev14KBdPk7m+vrV19e4edjSUfb+w=
@@ -1404,10 +1300,6 @@
 		</dict>
 		<key>Resources/en_GB.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yneTxBCi0HN96PseNn/x8yIShPE=
-			</data>
 			<key>hash2</key>
 			<data>
 			YFVZw0YYSwlS+JaETOl43vj2Cd0SkbbULGr3Qyt+ZkM=
@@ -1417,10 +1309,6 @@
 		</dict>
 		<key>Resources/es.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1430,10 +1318,6 @@
 		</dict>
 		<key>Resources/es.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fuy5C4GSJ5twxQyHT/iLi9s0suc=
-			</data>
 			<key>hash2</key>
 			<data>
 			5lWXh0mGE60bVai8noY3zfHtbt12ml45SlzzBTfRcPQ=
@@ -1443,10 +1327,6 @@
 		</dict>
 		<key>Resources/es.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RybRS145fLqyY4RVWZvOoUBJP50=
-			</data>
 			<key>hash2</key>
 			<data>
 			T0mhlOQTzYBT4rVg6o88pe2n/hWSFDp+HKyiLFV+8Yg=
@@ -1456,10 +1336,6 @@
 		</dict>
 		<key>Resources/es_419.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1469,10 +1345,6 @@
 		</dict>
 		<key>Resources/es_419.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fuy5C4GSJ5twxQyHT/iLi9s0suc=
-			</data>
 			<key>hash2</key>
 			<data>
 			5lWXh0mGE60bVai8noY3zfHtbt12ml45SlzzBTfRcPQ=
@@ -1482,10 +1354,6 @@
 		</dict>
 		<key>Resources/es_419.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2ax4flWYKCQB8e34rWeb3VNKezw=
-			</data>
 			<key>hash2</key>
 			<data>
 			klCtt/pKP9+5Y+90857+X9+xa+rcaz15YpyKyNgGmrc=
@@ -1495,10 +1363,6 @@
 		</dict>
 		<key>Resources/fi.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1508,10 +1372,6 @@
 		</dict>
 		<key>Resources/fi.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TETJMThKf8hyQORDCoDdJkJ9yHg=
-			</data>
 			<key>hash2</key>
 			<data>
 			ikvzYFGblag05yWvTO7NP1/qlRhtwK66jgFHZPuLNsY=
@@ -1521,10 +1381,6 @@
 		</dict>
 		<key>Resources/fi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FOm60xANebhH364W42/IdtfsYQ4=
-			</data>
 			<key>hash2</key>
 			<data>
 			4ltEjRgBtSWugqXV4tVkTO1Akiw2tvMU+e3Sm0SvuHg=
@@ -1534,10 +1390,6 @@
 		</dict>
 		<key>Resources/fr.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1547,10 +1399,6 @@
 		</dict>
 		<key>Resources/fr.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yndY+QqonCL1reC3XYrfIctwLWk=
-			</data>
 			<key>hash2</key>
 			<data>
 			7LBDe2Jv1sILPX7IOtW4I53J57w73OSPU1zv7Ky3KtI=
@@ -1560,10 +1408,6 @@
 		</dict>
 		<key>Resources/fr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0cEPdRell1ble+is+QsDUwALCWQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			CES6puS2yvqFaT25t2kbvR6OQIko1oo5+oXNhfNqD/8=
@@ -1573,10 +1417,6 @@
 		</dict>
 		<key>Resources/fr_CA.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1586,10 +1426,6 @@
 		</dict>
 		<key>Resources/fr_CA.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6cYrXUV4fpBHmAI9HbKGp4/+IqI=
-			</data>
 			<key>hash2</key>
 			<data>
 			M/yl+f8aQNLXzsiLnL7ogOljNuQ1/Z3hT5+Ibvw6rrw=
@@ -1599,10 +1435,6 @@
 		</dict>
 		<key>Resources/fr_CA.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ud7CpjUqOxVjTy/GlCfY95xyjkw=
-			</data>
 			<key>hash2</key>
 			<data>
 			aq1uGXdGX+IQuexBrpD/z77eH/AxdBSBw1CivS6M0EA=
@@ -1612,10 +1444,6 @@
 		</dict>
 		<key>Resources/he.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1625,10 +1453,6 @@
 		</dict>
 		<key>Resources/he.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LY6Fq1sKzXXAqcTEsIiygEevnV4=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZGvI5p7tyqr/U+SIZBjOvm040r/MUyA3OhK8jHj+wOs=
@@ -1638,10 +1462,6 @@
 		</dict>
 		<key>Resources/he.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6IyszGQeZN5yg3jwAmYTJkBBQaE=
-			</data>
 			<key>hash2</key>
 			<data>
 			nI1bNr1M8jMLZO0yPas+VBxZ6O3jGL8aVk6RYf822m8=
@@ -1651,10 +1471,6 @@
 		</dict>
 		<key>Resources/hi.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1664,10 +1480,6 @@
 		</dict>
 		<key>Resources/hi.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LXeo/U7oe0drcv9BEcfFkUQ9ceY=
-			</data>
 			<key>hash2</key>
 			<data>
 			t1tLnTNLRVUNIUqvLvtbqvIzGVZElZBCNVEuX57O6Og=
@@ -1677,10 +1489,6 @@
 		</dict>
 		<key>Resources/hi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GpJlRdgr9B//Im0gjMZhPIBOMsA=
-			</data>
 			<key>hash2</key>
 			<data>
 			chKcXCDlFWv0woCjF1WbawB6YA873RrdhLQ/WBKHykU=
@@ -1690,10 +1498,6 @@
 		</dict>
 		<key>Resources/hr.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1703,10 +1507,6 @@
 		</dict>
 		<key>Resources/hr.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XkNULEwbtK5rzCt6DHohYiYhma8=
-			</data>
 			<key>hash2</key>
 			<data>
 			0tNsbohEeUBpps/6JmH7Z4q3twY8hjvQ+bDMDIvdqQ8=
@@ -1716,10 +1516,6 @@
 		</dict>
 		<key>Resources/hr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8Kj3T5wNF6Aq62r3CEW9wcxGKY4=
-			</data>
 			<key>hash2</key>
 			<data>
 			cOmxSf8TgNA9s4JJIfiUe+DYm4C1/0L2tZGt4tUCmd4=
@@ -1729,10 +1525,6 @@
 		</dict>
 		<key>Resources/hu.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1742,10 +1534,6 @@
 		</dict>
 		<key>Resources/hu.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t/05RX8Ska0dQGaK/IhW0TSgd9I=
-			</data>
 			<key>hash2</key>
 			<data>
 			IlNq6j8celH8/YEVEgJQopeGhcEwDzoceinjarojnmA=
@@ -1755,10 +1543,6 @@
 		</dict>
 		<key>Resources/hu.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lMU21FYb69QIEmjsh5Gvzgya5Xg=
-			</data>
 			<key>hash2</key>
 			<data>
 			8f96jP74JzEGUODTJEBkYMjKy077L38ITOjVLu4+0Ms=
@@ -1768,10 +1552,6 @@
 		</dict>
 		<key>Resources/id.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1781,10 +1561,6 @@
 		</dict>
 		<key>Resources/id.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hx0ZDrgs/5952gCd45HxJgK23ZU=
-			</data>
 			<key>hash2</key>
 			<data>
 			P3VF+zevns5k6td4s4Kc+AsDb3IzZkhJTHw+uN+Sgng=
@@ -1794,10 +1570,6 @@
 		</dict>
 		<key>Resources/id.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8PzR18/bq4jxeAciiW+sumwtTv8=
-			</data>
 			<key>hash2</key>
 			<data>
 			BuDjM63xXp5Ndir4R93FIO6/n0ZdjNzYBZ+mdKH35js=
@@ -1807,10 +1579,6 @@
 		</dict>
 		<key>Resources/it.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1820,10 +1588,6 @@
 		</dict>
 		<key>Resources/it.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eXubi0LCMVkSQ2lewdyJAIQWowE=
-			</data>
 			<key>hash2</key>
 			<data>
 			+iDgMwIeHsxEgKIs3JvHJqAEjKWV69m15FRkEXS7XuU=
@@ -1833,10 +1597,6 @@
 		</dict>
 		<key>Resources/it.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D2yjIwe05O0+0e9zZsbn+rSY5Ck=
-			</data>
 			<key>hash2</key>
 			<data>
 			M3p2Uwoz+Llo5axVluPIT4rknCiBPaiCgXqlfC//pBQ=
@@ -1846,10 +1606,6 @@
 		</dict>
 		<key>Resources/ja.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1859,10 +1615,6 @@
 		</dict>
 		<key>Resources/ja.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P6gsSDR2w5JNhK24taknJSyDES4=
-			</data>
 			<key>hash2</key>
 			<data>
 			OQYZ+dzyrWTCiwWG0IiIPDYTLs8tt6bw+RxYHYTusL8=
@@ -1872,10 +1624,6 @@
 		</dict>
 		<key>Resources/ja.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XwEbF0UPHtv6K4QodHgDeucSWBQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			KBUcUzwkSgBxryGcy4DqSKuERUPmHYktA0xaDJOrrFk=
@@ -1885,10 +1633,6 @@
 		</dict>
 		<key>Resources/ko.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1898,10 +1642,6 @@
 		</dict>
 		<key>Resources/ko.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lofWycOgJSoJDIFxbsEunuoKMfE=
-			</data>
 			<key>hash2</key>
 			<data>
 			0gBtsxJkl2v3gqC6oXvZTZk/bkbF6L1sXWc5r10b0g0=
@@ -1911,10 +1651,6 @@
 		</dict>
 		<key>Resources/ko.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EM/96X/NQYx3zFP1NiMwXu9/YrU=
-			</data>
 			<key>hash2</key>
 			<data>
 			60dJc1eLz39KZUtn9Psi/ahpJY5bDasyiJ14JJM7lYw=
@@ -1924,10 +1660,6 @@
 		</dict>
 		<key>Resources/ms.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1937,10 +1669,6 @@
 		</dict>
 		<key>Resources/ms.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cs5mqIuMhWKaveCQgYIINXFdRxM=
-			</data>
 			<key>hash2</key>
 			<data>
 			oEll/dP0C7yrCj4vsMcupQt+dqkhHJdgawn0S5tBP4Q=
@@ -1950,10 +1678,6 @@
 		</dict>
 		<key>Resources/ms.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2EE6RUIbLTV4gTFrst2BtZp6AO4=
-			</data>
 			<key>hash2</key>
 			<data>
 			xgghG4gf/uyFSEVwGocnBaNBz/9VbJ67gcG0UTqWZ0I=
@@ -1963,10 +1687,6 @@
 		</dict>
 		<key>Resources/nl.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -1976,10 +1696,6 @@
 		</dict>
 		<key>Resources/nl.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WSo/CEy/BR1TfLEqOmYLTKTpGKY=
-			</data>
 			<key>hash2</key>
 			<data>
 			eOtR9YKiHGhY8+Q4OJNXdd5D/qzMF8fikE5aFZchGtI=
@@ -1989,10 +1705,6 @@
 		</dict>
 		<key>Resources/nl.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NEnxP0kfCjr5QfuGkManhv6o/Yw=
-			</data>
 			<key>hash2</key>
 			<data>
 			xbvRh/0BAEa3IMH83xqES4kyXMq05DVGU/yoPh0cziw=
@@ -2002,10 +1714,6 @@
 		</dict>
 		<key>Resources/no.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2015,10 +1723,6 @@
 		</dict>
 		<key>Resources/no.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ymcl2rx580q0YHSORDW8jRCzV+I=
-			</data>
 			<key>hash2</key>
 			<data>
 			oS9YvG7gQXwrqPruzcBIDn+oS5Ut2pgMQYQ/I2qTRZ4=
@@ -2028,10 +1732,6 @@
 		</dict>
 		<key>Resources/no.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			r5sJSLmiBI+gpOtWWm8+zAW8yP4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Nla8gerag19FwRr5bkjlTtPjOdUn67wwdsajj/s/U1Y=
@@ -2041,10 +1741,6 @@
 		</dict>
 		<key>Resources/pl.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2054,10 +1750,6 @@
 		</dict>
 		<key>Resources/pl.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vymlafXo5ziUDXhvMxkM62/aEvY=
-			</data>
 			<key>hash2</key>
 			<data>
 			5VVJBDeVE9WpeLJq5sARQnkog87hIRf77foYwzu44oc=
@@ -2067,10 +1759,6 @@
 		</dict>
 		<key>Resources/pl.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			klizkttGGoYSy+c4GvRfGPr3WYQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			4VO1lR8hfQ0qw/ttNvYWoinWLKd/sKe1VEb3LyDW/M4=
@@ -2080,10 +1768,6 @@
 		</dict>
 		<key>Resources/pt_BR.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2093,10 +1777,6 @@
 		</dict>
 		<key>Resources/pt_BR.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WO0Ov3XvzkNTyJvcQbqseQAoTv8=
-			</data>
 			<key>hash2</key>
 			<data>
 			aEV3I7vOvbFI4DzwDZUHYTONVOwmmoBYJwzl4W5YRXI=
@@ -2106,10 +1786,6 @@
 		</dict>
 		<key>Resources/pt_BR.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LdFeaiM9++Z2o6Fh+t10tsxQs5o=
-			</data>
 			<key>hash2</key>
 			<data>
 			QqczIVpGUtaqugA98tVeEMF9vJM7jHtDQwlrZDSHJP0=
@@ -2119,10 +1795,6 @@
 		</dict>
 		<key>Resources/pt_PT.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2132,10 +1804,6 @@
 		</dict>
 		<key>Resources/pt_PT.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fSMEIxZkO0W9kANAFFIym4wKkus=
-			</data>
 			<key>hash2</key>
 			<data>
 			dP3YXTu9N2FHIKT2D6nuJCLtVsJzSqdIvCHkv2b7NMw=
@@ -2145,10 +1813,6 @@
 		</dict>
 		<key>Resources/pt_PT.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rDN/Je7calSOkH4zGMIorI0lJAI=
-			</data>
 			<key>hash2</key>
 			<data>
 			qa+/JQii3RY7130wFY2ucK3GzHS0ZBMryG8LgvT+d+0=
@@ -2158,10 +1822,6 @@
 		</dict>
 		<key>Resources/ro.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2171,10 +1831,6 @@
 		</dict>
 		<key>Resources/ro.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/inHpTR8zE7Mq0AHy00RYmlLVh0=
-			</data>
 			<key>hash2</key>
 			<data>
 			FD0B/wF14NGe0u+W040W2MqVCLooZQDSv7A+4CBSHes=
@@ -2184,10 +1840,6 @@
 		</dict>
 		<key>Resources/ro.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QsLJWO1oqgRAHracM3U27gOievo=
-			</data>
 			<key>hash2</key>
 			<data>
 			OGwiVQ7Ip0KY/pv9RjESVfXyCqfm8MbYWTIvuEGOkcc=
@@ -2197,10 +1849,6 @@
 		</dict>
 		<key>Resources/ru.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2210,10 +1858,6 @@
 		</dict>
 		<key>Resources/ru.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RnBXS+675jEeVpwBQT0GqVk7c80=
-			</data>
 			<key>hash2</key>
 			<data>
 			iCbphOi0qnN7f6g9ZPd8p0LoVp5tfUbqVkcqSWddMYg=
@@ -2223,10 +1867,6 @@
 		</dict>
 		<key>Resources/ru.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lZ1lBtzk0EGIlLisAg7CxgtPfkg=
-			</data>
 			<key>hash2</key>
 			<data>
 			ec/IpoA9Kiff36bNLrZCwVr2iOacaHXKOc9Nq2X6eLo=
@@ -2236,10 +1876,6 @@
 		</dict>
 		<key>Resources/sk.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2249,10 +1885,6 @@
 		</dict>
 		<key>Resources/sk.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			97OKcUQgsjg3hg8pmLUC0Q9km7k=
-			</data>
 			<key>hash2</key>
 			<data>
 			IQlIOFZp6EQN1aLDq64fC27UPLZ75pnCV4hR9XysfL0=
@@ -2262,10 +1894,6 @@
 		</dict>
 		<key>Resources/sk.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4U5qDfgc2ETLSibpMXBfUoPLM4g=
-			</data>
 			<key>hash2</key>
 			<data>
 			UCWFRxUKu8Q8/mKiugnDHiMf8z8naa+i8Zoht+2sWzg=
@@ -2275,10 +1903,6 @@
 		</dict>
 		<key>Resources/sv.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2288,10 +1912,6 @@
 		</dict>
 		<key>Resources/sv.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			I7CmiVxCAfkvKsfqv1nYRYyteFc=
-			</data>
 			<key>hash2</key>
 			<data>
 			U8/zdxwagrriYpGwqHTu5+dQUB+QCEgid3O/nxpuEjY=
@@ -2301,10 +1921,6 @@
 		</dict>
 		<key>Resources/sv.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SKwVpMbI6le4FqmbsMinXWrDQ+s=
-			</data>
 			<key>hash2</key>
 			<data>
 			COtPkeKwF8VJSnG3qfbl30vleyHkFPQ7KybkCT/J10U=
@@ -2314,10 +1930,6 @@
 		</dict>
 		<key>Resources/th.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2327,10 +1939,6 @@
 		</dict>
 		<key>Resources/th.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uxmtzMZEMrnWNiVrW8Bi4cTdVNM=
-			</data>
 			<key>hash2</key>
 			<data>
 			G+RlE/U+xR9tSnuZ2e4TJBsv8P8C1Espdqd3lOwGedE=
@@ -2340,10 +1948,6 @@
 		</dict>
 		<key>Resources/th.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			86O7mYAyZNLpnCrp3ljzSf68Dr8=
-			</data>
 			<key>hash2</key>
 			<data>
 			uZ9NCfQK923nR14f4jiZraG2jXCOEXg9gDSKAdkala8=
@@ -2353,10 +1957,6 @@
 		</dict>
 		<key>Resources/tr.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2366,10 +1966,6 @@
 		</dict>
 		<key>Resources/tr.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+TxWOL9jnscrn5a0inqMcBkKEqQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			QCYA6kzezzP1eUVPwN4vka7ZKeihzyx4+DHnMMpF+Zc=
@@ -2379,10 +1975,6 @@
 		</dict>
 		<key>Resources/tr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+gLOHBJFx5lXHmh7AkKUH71E7sI=
-			</data>
 			<key>hash2</key>
 			<data>
 			9aj6e32OgKvUJ+8XG2hT2Lo9XmOP7r8qIhTelnN+es4=
@@ -2392,10 +1984,6 @@
 		</dict>
 		<key>Resources/uk.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2405,10 +1993,6 @@
 		</dict>
 		<key>Resources/uk.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uJGssfKv4asus3oCnL3itq82JCk=
-			</data>
 			<key>hash2</key>
 			<data>
 			/PWEeRDodv0Lvb2z71JjVwu6GGTa65XOeNdqeKayMSA=
@@ -2418,10 +2002,6 @@
 		</dict>
 		<key>Resources/uk.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			G2TqZ66hm2dO8d4TPh41pt9OKCo=
-			</data>
 			<key>hash2</key>
 			<data>
 			5834W633dAVWZutrrGU8BH1zmxEPBcU3NvP7OLmaqbM=
@@ -2431,10 +2011,6 @@
 		</dict>
 		<key>Resources/vi.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2444,10 +2020,6 @@
 		</dict>
 		<key>Resources/vi.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IKXkInKQIJGyIHl53Dcsug2cb7I=
-			</data>
 			<key>hash2</key>
 			<data>
 			7bA4lE8c2kyNRHTaXYyaeItHGdMisaOFJx45SmjGFLs=
@@ -2457,10 +2029,6 @@
 		</dict>
 		<key>Resources/vi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			crdllzWCEX1ee4KX4ALUGvqR7i8=
-			</data>
 			<key>hash2</key>
 			<data>
 			tXCNqUD7He4p7WlurtDxsesAOO1juoEqvcWE8yUZ7OQ=
@@ -2470,10 +2038,6 @@
 		</dict>
 		<key>Resources/zh_CN.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2483,10 +2047,6 @@
 		</dict>
 		<key>Resources/zh_CN.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vinhOoytJ+97QXbDnR8d2uNq3cU=
-			</data>
 			<key>hash2</key>
 			<data>
 			KDq5mpEufDOuzKsLVUqtBV9mTBweah0W4Tzr7kUgvo0=
@@ -2496,10 +2056,6 @@
 		</dict>
 		<key>Resources/zh_CN.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jZRaSfIiBr4B7eY/XaTEHZfZci0=
-			</data>
 			<key>hash2</key>
 			<data>
 			AbZ1UFpuvHtBIILfk39imGj0yarKFF4ohsgB23/8zYY=
@@ -2509,10 +2065,6 @@
 		</dict>
 		<key>Resources/zh_HK.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2522,10 +2074,6 @@
 		</dict>
 		<key>Resources/zh_HK.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			A+LemZONZx4Hq84c3+NdEd2p1W0=
-			</data>
 			<key>hash2</key>
 			<data>
 			nWRAvMq08G3XA0T5rAxpHpHsdyE35MapuaxiyG4n7Js=
@@ -2535,10 +2083,6 @@
 		</dict>
 		<key>Resources/zh_HK.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Cdb2oQGR8DEwldYWzr/koMLH3dI=
-			</data>
 			<key>hash2</key>
 			<data>
 			OgepsofgTI+2VbTQ5hfV0Xf3U2T3Kp2swNrC5JsT4+Q=
@@ -2548,10 +2092,6 @@
 		</dict>
 		<key>Resources/zh_TW.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uGrSanlmFMZ1ZXFQJA7aqwZHrcs=
-			</data>
 			<key>hash2</key>
 			<data>
 			8KvQ36cXmRatT2NplCf3Yctt3ls2tuvfRSjK4YJ5yrw=
@@ -2561,10 +2101,6 @@
 		</dict>
 		<key>Resources/zh_TW.lproj/Localizable-D83.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KZQXFTEjH//xz8yFGToOsT44o64=
-			</data>
 			<key>hash2</key>
 			<data>
 			MMhFH6lEpJ6MXGQ8R5G3xgUYm18Ei4RhyFljvXqEC28=
@@ -2574,10 +2110,6 @@
 		</dict>
 		<key>Resources/zh_TW.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LLJUtoT6SV9WRsE3FfRTmX0GaoE=
-			</data>
 			<key>hash2</key>
 			<data>
 			aoO1d7SX7yxMLUHJ8sk5BGu8UhAmctGqUccqnCEdIVI=
@@ -2587,10 +2119,6 @@
 		</dict>
 		<key>version.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2n4kAEq0HWpQBiIWj3sUaSGeO4g=
-			</data>
 			<key>hash2</key>
 			<data>
 			s62Ch1SEg4SvrKSukXySB/w76usqjslx5N5PnQe7NK0=

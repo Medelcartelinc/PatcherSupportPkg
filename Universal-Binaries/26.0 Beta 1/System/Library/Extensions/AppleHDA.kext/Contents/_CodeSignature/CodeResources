@@ -596,55 +596,55 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			KAAiPV0Xy4PiBweJXM+KuQ2kJhQ=
+			J1MPNkWPmIqhBNqWNAiCJU/M7dQ=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.AppleHDAController" and anchor apple</string>
+			<string>cdhash H"cb905445f16b56b2cd150c1df31835122b1da5c8" or cdhash H"27530f36458f988aa104da96340882254fccedd4"</string>
 		</dict>
 		<key>PlugIns/AppleHDAHALPlugIn.bundle</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			G9otoew26ZuSOYvmSJ/ymM+X/g8=
+			QjX/hnZhDFO8djZ63q8zflhkns0=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.audio.AppleHDAHALPlugIn" and anchor apple</string>
+			<string>cdhash H"4235ff8676610c53bc76367adeaf337e58649ecd"</string>
 		</dict>
 		<key>PlugIns/AppleHDAHardwareConfigDriver.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			qcbIF7enAEZcd/qV9xJNvQopawU=
+			EvqH+sFj/H+qcOJ1hJ3Xjee4vnk=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.AppleHDAHardwareConfigDriver" and anchor apple</string>
+			<string>cdhash H"f4f80bbe7e851bc04f51104c5e6ea8b1c44d3500" or cdhash H"12fa87fac163fc7faa70e275849dd78de7b8be79"</string>
 		</dict>
 		<key>PlugIns/AppleMikeyDriver.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			JANNYjR6x2kBJc/TTX/mXMJJ/FQ=
+			K6tro7pFvUFGm8jDPNd64FZQWyc=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.AppleMikeyDriver" and anchor apple</string>
+			<string>cdhash H"27dbbec1b502f6c7ce9eddfa6629bace21d03907" or cdhash H"2bab6ba3ba45bd41469bc8c33cd77ae056505b27"</string>
 		</dict>
 		<key>PlugIns/DspFuncLib.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			54pBgJh348+KbOaBlytby7KZmbQ=
+			wisOh9OM0QU1PtdJqO1pNUy8wHY=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.driver.DspFuncLib" and anchor apple</string>
+			<string>cdhash H"d4616402b379e9599c5e4b9b47c5671060b990f5" or cdhash H"c22b0e87d38cd105353ed749a8ed69354cbcc076"</string>
 		</dict>
 		<key>PlugIns/IOHDAFamily.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			PUa1RcPro8teBcdPpfS74TLfMeU=
+			hOAAbjpwvbBEG7astlDBKHC9x4k=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.iokit.IOHDAFamily" and anchor apple</string>
+			<string>cdhash H"4989392638d9ccee3df19c2d5a31b1fba1062251" or cdhash H"84e0006e3a70bdb0441bb6acb650c12870bdc789"</string>
 		</dict>
 		<key>Resources/Platforms.xml.zlib</key>
 		<dict>

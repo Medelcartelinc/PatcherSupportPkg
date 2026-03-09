@@ -475,10 +475,6 @@
 		</dict>
 		<key>Resources/Platforms.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lS3bEOT/L6CH++DAwEAHsV/z76w=
-			</data>
 			<key>hash2</key>
 			<data>
 			caTkLEl1exSqjUr+YHQk8s/RywvKA3Om9gfhKzTtM80=
@@ -486,10 +482,6 @@
 		</dict>
 		<key>Resources/layout0.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5bh2qSYXzTHUEQx647Tz/iYXmTM=
-			</data>
 			<key>hash2</key>
 			<data>
 			nAiq5G3gY6rOIk7OBjSzYfQAfRYQ+kDrInxsPUX13BY=
@@ -497,10 +489,6 @@
 		</dict>
 		<key>Resources/layout1.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IX1anzSCBRmLw7hkwyzRtDu3ou0=
-			</data>
 			<key>hash2</key>
 			<data>
 			bub2FVrx5Nmjwnb7l7H6Q2DZ0/V7h+6at3gRqklvqOw=
@@ -508,10 +496,6 @@
 		</dict>
 		<key>Resources/layout10.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CXsJtNyaEfS7Hw9ccDO/d+xpCG0=
-			</data>
 			<key>hash2</key>
 			<data>
 			8reLnMM4+WwwhrPzD/tAMPT+Rt8Xc8C+/WNBJZO8og4=
@@ -519,10 +503,6 @@
 		</dict>
 		<key>Resources/layout100.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zU5urEGjBQc4Gi3Fgg+JSjMnC+o=
-			</data>
 			<key>hash2</key>
 			<data>
 			q0CPTNOsVoaizDE+i4toNoU7/OXnO4aQWo/23Jt8REI=
@@ -530,10 +510,6 @@
 		</dict>
 		<key>Resources/layout101.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+IwhthRMue2XC2RwlHd+kZlAEK4=
-			</data>
 			<key>hash2</key>
 			<data>
 			2mvIIQlf5cZ+ffD1tq0R6y4NrceP/I3VtHpW7NpcuAw=
@@ -541,10 +517,6 @@
 		</dict>
 		<key>Resources/layout102.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NAt03VqupIe/BplXrELy3Npho4Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			gS1RBrp96gJpDGER7al/L8UkmR9N6WLtZqDJf2KjKpM=
@@ -552,10 +524,6 @@
 		</dict>
 		<key>Resources/layout107.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UwDmZj6G6Ln82PY5CSWiXHO8V9M=
-			</data>
 			<key>hash2</key>
 			<data>
 			g2bzEWdGQwOQe0CID3z/Y6L23087dyf9BIUxFMi/nCc=
@@ -563,10 +531,6 @@
 		</dict>
 		<key>Resources/layout108.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BfcRVQD9b9cDbZyxyQBNXcf3+zQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			VB2lzAuDBkC4uJVYyvugjKisRyzsKx1nBrR7Nt3+gbM=
@@ -574,10 +538,6 @@
 		</dict>
 		<key>Resources/layout11.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			szo3lMzwZJmVXstcvhDzaSa0VDU=
-			</data>
 			<key>hash2</key>
 			<data>
 			CCYEjtIUpIYDM568u0VfG0mJdW5E8nZIBgBqWUbG5Ow=
@@ -585,10 +545,6 @@
 		</dict>
 		<key>Resources/layout113.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uU/+X69E0s0aNZciMNyswUJkVGY=
-			</data>
 			<key>hash2</key>
 			<data>
 			xnnBcMDHQ/xpOIy5sf0n0eH2xfiMfXPNV/9MZyYHI68=
@@ -596,10 +552,6 @@
 		</dict>
 		<key>Resources/layout114.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			goA1Rw+NY/NtODJfqjiiovTa9S8=
-			</data>
 			<key>hash2</key>
 			<data>
 			njrc0wxg5Xy84ULwXqnYkpYYUzV6IIb88yGfttxmZOM=
@@ -607,10 +559,6 @@
 		</dict>
 		<key>Resources/layout12.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+02HLiR7TFbHOVn0vFib/9pA4zA=
-			</data>
 			<key>hash2</key>
 			<data>
 			lxb2EerqvVRh4EcOOwQ3IoXi2gFrLCD6ySJV+p1DBzQ=
@@ -618,10 +566,6 @@
 		</dict>
 		<key>Resources/layout120.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LsoLlWcglEngZfNPods029QBHT0=
-			</data>
 			<key>hash2</key>
 			<data>
 			w0vLJ66O/icGNy+D0OQ3JUjshvTbs0Bla1lhRObd7Yc=
@@ -629,10 +573,6 @@
 		</dict>
 		<key>Resources/layout121.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			etMo/SMBc1Cq29Tik4xgDBzn9eA=
-			</data>
 			<key>hash2</key>
 			<data>
 			qdsf7D5qr5Gy4FSM8M4mcSdD2c6vYbXD1WkfAWU5MGU=
@@ -640,10 +580,6 @@
 		</dict>
 		<key>Resources/layout122.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dE88Qdqo/lwPkI+MXQ6QdEFY59k=
-			</data>
 			<key>hash2</key>
 			<data>
 			jnkfo3cTJ1FmS70PYlwSz+8wY3BAGPH1Cs9hftZIVM8=
@@ -651,10 +587,6 @@
 		</dict>
 		<key>Resources/layout123.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LEudulllHJikHGcQZo2930heaso=
-			</data>
 			<key>hash2</key>
 			<data>
 			RWcXEfvLChGHKKulPxTkrvPnYh13wDeejnxoQ96pye0=
@@ -662,10 +594,6 @@
 		</dict>
 		<key>Resources/layout124.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wfOPTDV/TZkQabqAKnIs2da/XV0=
-			</data>
 			<key>hash2</key>
 			<data>
 			XcAbiILhocMiyjd9CAhgMiWqIoqhi6/LR8YC0MsKDlQ=
@@ -673,10 +601,6 @@
 		</dict>
 		<key>Resources/layout125.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5Zi4qkUXdsNQMtdxoweV95JkBYQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			5izEuS88Y4k+W9Cdz1nNcbI7TnW/m6On9tdhrLZfSqI=
@@ -684,10 +608,6 @@
 		</dict>
 		<key>Resources/layout126.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CSn5cfjKpXOOkarGc7GTtPH3EPA=
-			</data>
 			<key>hash2</key>
 			<data>
 			FSzxFCZV5Jz8MASjCDPLvYTj1WtrEHjTouiH35tU7s4=
@@ -695,10 +615,6 @@
 		</dict>
 		<key>Resources/layout127.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CM+F6KGLfyAhsfBjE+IYOLTGJU8=
-			</data>
 			<key>hash2</key>
 			<data>
 			qpzsq7VZHlTosMmT03U74J6jnLp1Sv66R6y5RwVb2gU=
@@ -706,10 +622,6 @@
 		</dict>
 		<key>Resources/layout128.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k7mcVHYqgQf7ce82XxWKq/p6mGc=
-			</data>
 			<key>hash2</key>
 			<data>
 			lMtvMKFo0Ix7x8+C2kljZrU1pnCwxitBCccnSX9hvDM=
@@ -717,10 +629,6 @@
 		</dict>
 		<key>Resources/layout129.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kA8RZ/SAgJYECIivlSbETG2GvvM=
-			</data>
 			<key>hash2</key>
 			<data>
 			wHqTVx19GMGYv7BeYur8idfdMENihE+Po5KSQWC0qqY=
@@ -728,10 +636,6 @@
 		</dict>
 		<key>Resources/layout13.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HLqwEK7lhUJIdLnjoHZ5kLCI5xs=
-			</data>
 			<key>hash2</key>
 			<data>
 			BtFJyXdT3b7s8IDSg7o1/egWHNybBTLWhK+rX3DuD3M=
@@ -739,10 +643,6 @@
 		</dict>
 		<key>Resources/layout130.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7/yylQDDVaD9sX0fO+K6a03mm6I=
-			</data>
 			<key>hash2</key>
 			<data>
 			P7rQbRSqi5mVUcnM/UZBi3DnaQr0pB5iNlhpYNNhVs0=
@@ -750,10 +650,6 @@
 		</dict>
 		<key>Resources/layout131.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PYeizMjPcQlLCQEGqShWMwmb+00=
-			</data>
 			<key>hash2</key>
 			<data>
 			s+orQONOAo6uHF88PcHeIWz9XVmRLRw/XwhKpHkaeFQ=
@@ -761,10 +657,6 @@
 		</dict>
 		<key>Resources/layout14.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nuPrGuS6tkcP1oG19VdqKX8ig9I=
-			</data>
 			<key>hash2</key>
 			<data>
 			RzjJp0J7C/1c4fxwEYiu4dE1UqW+0EjFIfzNd8Vg/bk=
@@ -772,10 +664,6 @@
 		</dict>
 		<key>Resources/layout15.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RVlaLDWmXV4zZ7Iv8Lt0TgWGggg=
-			</data>
 			<key>hash2</key>
 			<data>
 			SB0y7s5H6muBMJfXkROTvJBEiDsfHIC1EGMk5sCOttQ=
@@ -783,10 +671,6 @@
 		</dict>
 		<key>Resources/layout16.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			761Uh38WHrnREF7WTYpRHSlsJg8=
-			</data>
 			<key>hash2</key>
 			<data>
 			QTx0KJ51/4v4J1o7N+YhoblVYSpUFlXDfpwn2QH5qd8=
@@ -794,10 +678,6 @@
 		</dict>
 		<key>Resources/layout16392.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Wtt7ofHghf8UGEqj9wZ4s7I1fRg=
-			</data>
 			<key>hash2</key>
 			<data>
 			9po9nu912jeuITUrCLQRA+fA++SpYUOTXmu7gxM9n0w=
@@ -805,10 +685,6 @@
 		</dict>
 		<key>Resources/layout16394.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7XsLxJmciIZDjBq0sr6WxqhSiUA=
-			</data>
 			<key>hash2</key>
 			<data>
 			bc9GacbY0AAv5YyMfNehB3CQi8jEPBH2pbJFJmEJTWk=
@@ -816,10 +692,6 @@
 		</dict>
 		<key>Resources/layout17.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			77MJl+naQ3e9xx28fkoK/stCUis=
-			</data>
 			<key>hash2</key>
 			<data>
 			VGRUPjzNrDv/KNWwigkj4llaemL/cwEUXpsS7QnxSS8=
@@ -827,10 +699,6 @@
 		</dict>
 		<key>Resources/layout18.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+M3hlmphwvuiXUm+oEf1d0hdTSg=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jq1Mgl6HBW8de0BojeqSr93CPdR9gj76HpoZFt2xpKc=
@@ -838,10 +706,6 @@
 		</dict>
 		<key>Resources/layout19.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+2sMhOXsuMLVW+eSWTASkcUwV3k=
-			</data>
 			<key>hash2</key>
 			<data>
 			k0rj/RtUWKlljGFZTZOe5bIpxaPyG49kyc10GCunOzI=
@@ -849,10 +713,6 @@
 		</dict>
 		<key>Resources/layout2.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RTLburGpi2eCvZwD2bX0e5dCM/0=
-			</data>
 			<key>hash2</key>
 			<data>
 			sSliXto91dFMAXXQJFZskZIJteeXFEgbwAgo+TKZgiM=
@@ -860,10 +720,6 @@
 		</dict>
 		<key>Resources/layout20.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0hmDkvS7ggZp2xkWSnd0iAIyRP4=
-			</data>
 			<key>hash2</key>
 			<data>
 			5dY7nlJqJHf7v80BpsoQQapRz2InEKS8QelNQ8Urc1g=
@@ -871,10 +727,6 @@
 		</dict>
 		<key>Resources/layout21.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nB+IU0ONUlyQUSK2DAhbBlifPww=
-			</data>
 			<key>hash2</key>
 			<data>
 			4a/2mbBOfH4/B8KwkFW6dPe64hUMh/YYN8ekIXUnU3g=
@@ -882,10 +734,6 @@
 		</dict>
 		<key>Resources/layout24.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/kpFTbOf/hnlrDN6scyQjUmOgB4=
-			</data>
 			<key>hash2</key>
 			<data>
 			FQ97eK05eBLUEqZ03hVWgE83tshhx8ElMdKr5MHxN+w=
@@ -893,10 +741,6 @@
 		</dict>
 		<key>Resources/layout27.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k3MqaA0KiWmVhoOpA9wfHkVt5QA=
-			</data>
 			<key>hash2</key>
 			<data>
 			L8uhn0f6e/IpJwIZtuYYqc5YZ4L6ZzIUiGSgXu3pohc=
@@ -904,10 +748,6 @@
 		</dict>
 		<key>Resources/layout28.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uXi5eYa87X6SfcWZDxJpJq7TmF0=
-			</data>
 			<key>hash2</key>
 			<data>
 			fi49MnRZQcRYh0O63iBzLu+6HpQ4YQTCHOQnfffbQEQ=
@@ -915,10 +755,6 @@
 		</dict>
 		<key>Resources/layout29.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			A3ySU0+jAlgSftt5iX6Yc/+y+a8=
-			</data>
 			<key>hash2</key>
 			<data>
 			z5vAq6EuLWMxfoiYN2l2+qVUMyMkcTknndv+tkNN7GE=
@@ -926,10 +762,6 @@
 		</dict>
 		<key>Resources/layout3.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yEMe7gw2YHb40wCIvszoeoh+RGY=
-			</data>
 			<key>hash2</key>
 			<data>
 			2qeGjzkSXIEYcvumV0aef5yV2DeSeYTtv4pCkVJXxqk=
@@ -937,10 +769,6 @@
 		</dict>
 		<key>Resources/layout31.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IdSimtw+JWTWUAMIrQVrdwjiJ/8=
-			</data>
 			<key>hash2</key>
 			<data>
 			ixYuFqKLWLAZrAyC2RrCqgg9UaekjHGbzgxbS0KH+Nc=
@@ -948,10 +776,6 @@
 		</dict>
 		<key>Resources/layout32.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W14wjWPtFidGMZyt2beLsBSahJ8=
-			</data>
 			<key>hash2</key>
 			<data>
 			YUzKmENWdJN7idaM0OTOPNLo4HlX83FHgwWkqI9N0jo=
@@ -959,10 +783,6 @@
 		</dict>
 		<key>Resources/layout33.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WBLJ0Hv4LvFoY1bFIURCApe/Zik=
-			</data>
 			<key>hash2</key>
 			<data>
 			un6U5gppHjLe69VSQugHjeHwRL1vJhAjq0jEo6DjObw=
@@ -970,10 +790,6 @@
 		</dict>
 		<key>Resources/layout35.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CY5bf0GWqsca6doWzTZNmrYEpjQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			yHwIUlKve9msCQTMU2SL7MT6fjBGHSF7q40qJ6XmciM=
@@ -981,10 +797,6 @@
 		</dict>
 		<key>Resources/layout36.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lS4Fr0CZk+H3pXIYlhFiKgSUQnk=
-			</data>
 			<key>hash2</key>
 			<data>
 			UAnbhlPmY29Z4/0dasvZEtLPlVcRtR7uDtC6a0Uch8M=
@@ -992,10 +804,6 @@
 		</dict>
 		<key>Resources/layout38.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5rxBPcS9/qSlHtDpMiNUDGahczM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y0Ulqm9LhL3NmYu64H2aS3Z3L1syAF9A//u7ru+e2+c=
@@ -1003,10 +811,6 @@
 		</dict>
 		<key>Resources/layout39.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FYivKtVbM+jxoEC0CDeqFrAIfo0=
-			</data>
 			<key>hash2</key>
 			<data>
 			FJ3zYKff1vBHWW/o3K5kundHQWlPgB7ztC9h6tXzx/c=
@@ -1014,10 +818,6 @@
 		</dict>
 		<key>Resources/layout4.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VZirlz8xgbX4j5TgHaukyNep1PQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			phngz5bvuwTAXYQfJzeyprZZHF9R+wbMTu2rBe2WEPc=
@@ -1025,10 +825,6 @@
 		</dict>
 		<key>Resources/layout40.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k/E77EOURiseiNH5DIXBdICWWw4=
-			</data>
 			<key>hash2</key>
 			<data>
 			jEHRt8yL41ECkwaFPtHfbr0Wy85P3jHFkfXTp9AFX1E=
@@ -1036,10 +832,6 @@
 		</dict>
 		<key>Resources/layout42.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EYMZQXcg/c30Urz4v/cYqPJ+30M=
-			</data>
 			<key>hash2</key>
 			<data>
 			YYJ4LeusgmIGQeaAMLGhqIAner3UhgDZ1vmfy2gUC84=
@@ -1047,10 +839,6 @@
 		</dict>
 		<key>Resources/layout44.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X7fqk/CMlfq376AZOUOmKqCs6Cs=
-			</data>
 			<key>hash2</key>
 			<data>
 			QIO/crnsMICIpWu16QCFj+hJTAXD9Utl0Uz+c/h5q24=
@@ -1058,10 +846,6 @@
 		</dict>
 		<key>Resources/layout46.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fdziWzmLJwDzW4SKjsFBmxpolNE=
-			</data>
 			<key>hash2</key>
 			<data>
 			ehju7jFPloBcgXeDWr5mfpTFEHjgAWZBKfWrIwcrtTw=
@@ -1069,10 +853,6 @@
 		</dict>
 		<key>Resources/layout48.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vbr23z1EsmExbKnC+rIXEUZ9Kgo=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ee1KsnFGpZ+oj6DONpd+dLjbRxYgv095msjEXOo1Kx0=
@@ -1080,10 +860,6 @@
 		</dict>
 		<key>Resources/layout5.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/2vQOMn9OCsPpfHKbfj9z8JAzZs=
-			</data>
 			<key>hash2</key>
 			<data>
 			MGgfnMS7HH+sJgRPmgverxbx7jZRbuldamBFVbwUbt4=
@@ -1091,10 +867,6 @@
 		</dict>
 		<key>Resources/layout50.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			F+cyPDRwMi/k6TzYjwFuyV1rWJQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			tWVS7hy2zTbOkO11hx7o7/F9sosW0LeMfZiLZUwS1eE=
@@ -1102,10 +874,6 @@
 		</dict>
 		<key>Resources/layout51.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gEs8YDHAIe3ffgzp/ImaSHSOobY=
-			</data>
 			<key>hash2</key>
 			<data>
 			7KlTHvp644QbftTHKzS2n5t1IlLGIc64f9kobPkGLL4=
@@ -1113,10 +881,6 @@
 		</dict>
 		<key>Resources/layout53.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PL2Lisa9tm0K5aoyBNagvpt/GFg=
-			</data>
 			<key>hash2</key>
 			<data>
 			Kq+RljaW958v4q0fnsa/MGU/lSOeXUUxw6/RkjtuyAY=
@@ -1124,10 +888,6 @@
 		</dict>
 		<key>Resources/layout54.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FjVPL2fV4SblE9hQD2XWqsyWLe8=
-			</data>
 			<key>hash2</key>
 			<data>
 			vLymZ41Hwi8pT+mBNlfSCPZkTLz03fvUrCEpfmDf2bQ=
@@ -1135,10 +895,6 @@
 		</dict>
 		<key>Resources/layout56.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Oz0Ch/sW617O/S+ic/K52Inrggo=
-			</data>
 			<key>hash2</key>
 			<data>
 			pBRbkQnh1g+eYzHCFWm1TjKHzyjDnTCe1kVhZZgy3B0=
@@ -1146,10 +902,6 @@
 		</dict>
 		<key>Resources/layout57.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PHX3s1YtvrU7ytqmdYks0moeFzg=
-			</data>
 			<key>hash2</key>
 			<data>
 			z9eXxbhXdZZPJcBhk0Uf8IfZo+AFHw/W14X+JAwjrDU=
@@ -1157,10 +909,6 @@
 		</dict>
 		<key>Resources/layout58.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YEQFFPiAfXV8zbIBEwNFgo9xJTY=
-			</data>
 			<key>hash2</key>
 			<data>
 			t8aQdCtr8/0fLXrYB9jW2LmhzQMmF1qjGQZWxQT5VJ8=
@@ -1168,10 +916,6 @@
 		</dict>
 		<key>Resources/layout59.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/0DAgPu2u4vOThKdtt2k17lGSzI=
-			</data>
 			<key>hash2</key>
 			<data>
 			bev2DrztWPr/4vTnbOJCVJnn7VGb8cZv+HLkACbbnM8=
@@ -1179,10 +923,6 @@
 		</dict>
 		<key>Resources/layout6.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9wLKUXrw02d1euQI0zjW/sOm3lQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			/C/i6i5B2aqrANSav5qOLH8do6VJgC7yD8lSCT0z/IE=
@@ -1190,10 +930,6 @@
 		</dict>
 		<key>Resources/layout60.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2+RRcgddc0s6BdBAicH/rYcHDZA=
-			</data>
 			<key>hash2</key>
 			<data>
 			AdumWCMMpaYvpT8d6/nAY62/UW0RMfPb6ZfkarN8sPs=
@@ -1201,10 +937,6 @@
 		</dict>
 		<key>Resources/layout61.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			52u+A97B1+6RRGT9A70o/+GZCNs=
-			</data>
 			<key>hash2</key>
 			<data>
 			NWiEF0YISKYrbiklHrVjj/NnWP5xji7i2LhIPGNt1P8=
@@ -1212,10 +944,6 @@
 		</dict>
 		<key>Resources/layout62.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			glG4wxyNsmEBjRt8fJbD/4D8LSw=
-			</data>
 			<key>hash2</key>
 			<data>
 			d64Xxw0U8nM9pYvWAmCfKnaBp1G9DBPQjkZqp/OyTOs=
@@ -1223,10 +951,6 @@
 		</dict>
 		<key>Resources/layout63.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s6jS2TN07JXwls/Bk3eaft9cytU=
-			</data>
 			<key>hash2</key>
 			<data>
 			IiDKAMqaB8aZZ8iw7MH+9JCkXD3s1CjzODefloMqCuY=
@@ -1234,10 +958,6 @@
 		</dict>
 		<key>Resources/layout64.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			656/v5TCfAo5251J4lkP6vaWJA0=
-			</data>
 			<key>hash2</key>
 			<data>
 			PG+WCVNmRFsocAtH7df9bC6QDzIBqih2JJSW0OmZdZ0=
@@ -1245,10 +965,6 @@
 		</dict>
 		<key>Resources/layout65.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SBWe7vedxW5M+vRQr9WEmdPMp7c=
-			</data>
 			<key>hash2</key>
 			<data>
 			9Jv6d7FEXFL5R3L1IV1cq20ejrglMEsaLuRzEsTY/DU=
@@ -1256,10 +972,6 @@
 		</dict>
 		<key>Resources/layout66.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ytu4KoXRmIRutU7eJnCiaKe9HhQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			Si9MifivuVSmKn/lfXvZcvsCK5gIkWH1Z3MXCOCu1y0=
@@ -1267,10 +979,6 @@
 		</dict>
 		<key>Resources/layout67.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jsM4nOksDg9bI1JYo1/fi7sH+EA=
-			</data>
 			<key>hash2</key>
 			<data>
 			1MMCPwI2Q00CjBIbrRCMpQvxzpgARahe/GvMkRIW4AQ=
@@ -1278,10 +986,6 @@
 		</dict>
 		<key>Resources/layout69.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MkK5sBckEqy+dXTWSdsuAkIK1Ro=
-			</data>
 			<key>hash2</key>
 			<data>
 			nuNM2VviV3IYw/qRoOhofLhKTTxRClq2BTccIFpptVw=
@@ -1289,10 +993,6 @@
 		</dict>
 		<key>Resources/layout7.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ngnrtiw+JL88/09HZs6W2Pr2bm0=
-			</data>
 			<key>hash2</key>
 			<data>
 			tgkBfxmonzc3woXda6tcbTlSKJELk4iPExg7zMtYZto=
@@ -1300,10 +1000,6 @@
 		</dict>
 		<key>Resources/layout70.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			74RSYZ1X1vb9Sq+Q55w2CnC2C1Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			js5m/4uE2w1aPJLKMSrd7VS+NNNCunWHML2cNFOrRLU=
@@ -1311,10 +1007,6 @@
 		</dict>
 		<key>Resources/layout71.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bNmnMYkUId2/7Dq3Dz8jxCxUkMY=
-			</data>
 			<key>hash2</key>
 			<data>
 			0YmHPDELduhKLs9fT+46n3ypN93+ENb6MwpiRzQdhrg=
@@ -1322,10 +1014,6 @@
 		</dict>
 		<key>Resources/layout72.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lO173lIObYd5dpUoRpdAkEKUFxc=
-			</data>
 			<key>hash2</key>
 			<data>
 			QgaHihJvfPmguES8s+Q+EGF77T1bEPXEMy4wXj/rqrQ=
@@ -1333,10 +1021,6 @@
 		</dict>
 		<key>Resources/layout73.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			elk8/51uCXq65k4ydDuCn9YZsns=
-			</data>
 			<key>hash2</key>
 			<data>
 			SIFtl2NSLskSmuoYBcguYU4pqYbXkt4xaV8NPfxVnMQ=
@@ -1344,10 +1028,6 @@
 		</dict>
 		<key>Resources/layout74.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SJp3DobG4M4OGd78v+l/70G93cg=
-			</data>
 			<key>hash2</key>
 			<data>
 			vVCnjdchi3zZkhH4u9M0pclWcrZhuEzNyWxtReEVY5E=
@@ -1355,10 +1035,6 @@
 		</dict>
 		<key>Resources/layout75.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CgGD5Uss5e7bYNPhL0JXo6GREH4=
-			</data>
 			<key>hash2</key>
 			<data>
 			uVGXiMbuG/Oj9MQcKUDsgdZ3x/hD3BoYWf3xwN5g33Y=
@@ -1366,10 +1042,6 @@
 		</dict>
 		<key>Resources/layout76.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			51zmuBB3IL6GuWDxJBE6EJv2J9g=
-			</data>
 			<key>hash2</key>
 			<data>
 			Z8M92BfRokPNiD/fMG0blbxYkDLbWKk5W+T3QJWkRTU=
@@ -1377,10 +1049,6 @@
 		</dict>
 		<key>Resources/layout77.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vLtw6P2xmCRKB317NPD3pJDkceA=
-			</data>
 			<key>hash2</key>
 			<data>
 			6PwBnrtORXnv5BuAvA7zDd2XpdFhJ/zZYgQAzjBO/tc=
@@ -1388,10 +1056,6 @@
 		</dict>
 		<key>Resources/layout78.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7tGByhqQRU4fvIx0viqQgLwVuh8=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZEtC/+z9srIGvGXtiiCvnFa04LsuGEuqeF54YVgOwBQ=
@@ -1399,10 +1063,6 @@
 		</dict>
 		<key>Resources/layout79.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			u3MwnOoEgShSdyDKeAO1daJfSzA=
-			</data>
 			<key>hash2</key>
 			<data>
 			YwgGLwBM4yQGK+MhlBksN2GzK+a5PBRlJCLdncYs1K0=
@@ -1410,10 +1070,6 @@
 		</dict>
 		<key>Resources/layout80.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Qo+Zqvca1sxg0pt6FQilfAYSeng=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ce6ZHeF8Yd62yTldf8txtfthxK6ROA72okxnOmFj8fI=
@@ -1421,10 +1077,6 @@
 		</dict>
 		<key>Resources/layout81.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3t3k0IXlVcp0ymtLwZi1uobyjAU=
-			</data>
 			<key>hash2</key>
 			<data>
 			qMPmuMEW/Iir66830/5FAxZMq5eHfxq3eGH6Iu83kOk=
@@ -1432,10 +1084,6 @@
 		</dict>
 		<key>Resources/layout82.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MT6s8Iju1M4aQEjf11qzz0lmO5E=
-			</data>
 			<key>hash2</key>
 			<data>
 			iu2Xs3tKKbvKds5kqkjbzAifNFe6PWDRZN83Ls3XHoo=
@@ -1443,10 +1091,6 @@
 		</dict>
 		<key>Resources/layout83.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ltfBp/JXc77a/AUz1lAO6s/a4Tk=
-			</data>
 			<key>hash2</key>
 			<data>
 			IQxp/cq0vJ/plCOdwrPCIAlwb985SeYmPP0fSpwfyEQ=
@@ -1454,10 +1098,6 @@
 		</dict>
 		<key>Resources/layout84.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			k3hwLgErtogW4dhiFF7as9ATXd0=
-			</data>
 			<key>hash2</key>
 			<data>
 			0N+3/2zOFHQwi/3EfRxGLSmOjwJEH5Lc13FRdPaDxbA=
@@ -1465,10 +1105,6 @@
 		</dict>
 		<key>Resources/layout85.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lG6VBffN63Z0YAYBIxgAH7NpUyQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			xWFZkjXaPTOW+lMxWauNtbOrRGuUM7irbDoav/RR9mw=
@@ -1476,10 +1112,6 @@
 		</dict>
 		<key>Resources/layout86.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qtPgnz5vO3zVftHYOS0e/vn2UpI=
-			</data>
 			<key>hash2</key>
 			<data>
 			6VO9SrNKPlQXTQ+oE/7rd/EIPJ1LZyQnb9iy7uzEuEo=
@@ -1487,10 +1119,6 @@
 		</dict>
 		<key>Resources/layout88.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			T8gs7YrvuICDYNI27snR2Z3Vsik=
-			</data>
 			<key>hash2</key>
 			<data>
 			jWS35KNwQpm5aNNDktd5VUNvhECfhwMQSc/TfHTmYaY=
@@ -1498,10 +1126,6 @@
 		</dict>
 		<key>Resources/layout9.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vB6nEAds8pkFG6xOYRjpfdDNr9Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			lBcciUs5MNHa1DUv5+iXgaAGn6EWP4kI6yy3s9oDQFc=
@@ -1509,10 +1133,6 @@
 		</dict>
 		<key>Resources/layout90.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qkpDT3MX4ZV91MabD7ihqMZV/6Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			R0YDXJZHJ+JKX1oDp3zjlA5kHOtTGMdOxIBG9ouIINs=
@@ -1520,10 +1140,6 @@
 		</dict>
 		<key>Resources/layout91.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KwJXZt0BMogCylHp6SCssuIt2M4=
-			</data>
 			<key>hash2</key>
 			<data>
 			wHrvzO4LrJUqdI6hIcEETq0crkAzYFbd59NUeHRdtg8=
@@ -1531,10 +1147,6 @@
 		</dict>
 		<key>Resources/layout92.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rdosHG39Bp04BnHlylsyNm4I2Qg=
-			</data>
 			<key>hash2</key>
 			<data>
 			/qQTmA/i+UBwkSVAw4qX+EItaVSeQ4iS8rfxLAMdS3Q=
@@ -1542,10 +1154,6 @@
 		</dict>
 		<key>Resources/layout93.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yTu9jW+oToRdptmmDN/kfhdgVew=
-			</data>
 			<key>hash2</key>
 			<data>
 			s3Qra7BumbHgJv4aLAExFvkDO77vmEXkH8CZJbj0ujs=
@@ -1553,10 +1161,6 @@
 		</dict>
 		<key>Resources/layout94.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Zh0sHCqANhv4HXfUQBef9Gq6lGM=
-			</data>
 			<key>hash2</key>
 			<data>
 			9wbMJ7fDhcNElSq7k3PXDr9Jp8Aqvw0qhcL5FYw4MTw=
@@ -1564,10 +1168,6 @@
 		</dict>
 		<key>Resources/layout95.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RoY+kadpNLX6S3NmGdmG5PXqPUE=
-			</data>
 			<key>hash2</key>
 			<data>
 			2uMCvJXIJL8tWHlQcDnVif7a6dzK9ioKenblfDYq9MU=
@@ -1575,10 +1175,6 @@
 		</dict>
 		<key>Resources/layout98.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DnNDHMzoG/qoUITHYCfAGIiRTjw=
-			</data>
 			<key>hash2</key>
 			<data>
 			zsK1iOu3tuygzX8i4oy1kZ8Lz2yGy+ID+DyLGOGFQjg=
@@ -1586,10 +1182,6 @@
 		</dict>
 		<key>Resources/layout99.xml.zlib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vD6FYY4+g5CpT90aWvzzGSJwK4g=
-			</data>
 			<key>hash2</key>
 			<data>
 			8AD7Xzxrl56wx2vwsKrTaU5pdpHar2AryNYSFB53KPo=
@@ -1597,10 +1189,6 @@
 		</dict>
 		<key>version.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MkagQ8RqPBVBLjUnVDMdBf0bdbA=
-			</data>
 			<key>hash2</key>
 			<data>
 			8wv4uOE1w0u8JZr9RrUO5KJOO06smBjE2sAJ1esrGNQ=
