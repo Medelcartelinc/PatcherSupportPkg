@@ -15,64 +15,64 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			dheYCVresctTMOaPsZfn72UTbdE=
+			08FFA90iItSP0GoLJKJHj24SvNY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"e3fa1641a5e80a00854336a9df66da1ce1290a53" or cdhash H"761798095adeb1cb5330e68fb197e7ef65136dd1"</string>
+			<string>identifier "com.apple.kext.AMDRadeonX6000HWLibs" and anchor apple</string>
 		</dict>
 		<key>PlugIns/AMDRadeonX6100HWLibs.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			RHUwh8kAtmrGzc5r61AuRN3Fnvw=
+			URqdpudxt7KB1qacGX8GxiWJKt4=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"b70fc762d511c3f6dfc97da9429ccbf7fcd25aa9" or cdhash H"44753087c900b66ac6cdce6beb502e44ddc59efc"</string>
+			<string>identifier "com.apple.kext.AMDRadeonX6100HWLibs" and anchor apple</string>
 		</dict>
 		<key>PlugIns/AMDRadeonX6200HWLibs.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GvN3o/bMgEpp0dmKfaHOcrUjK7g=
+			vCoe7nfui3B5nr6WW1vKEZr5uAI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"28accede5689052a1670ca0da97b0d3f82a8fb0a" or cdhash H"1af377a3f6cc804a69d1d98a7da1ce72b5232bb8"</string>
+			<string>identifier "com.apple.kext.AMDRadeonX6200HWLibs" and anchor apple</string>
 		</dict>
 		<key>PlugIns/AMDRadeonX6300HWLibs.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			/dWk+GJA6B6mTueiZmOV8ygTMuI=
+			nBN4iyVUwdQLSFatp3t4bqJ1T4w=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"cca9875c60da3255b97651e511d9d1591e28657b" or cdhash H"fdd5a4f86240e81ea64ee7a2666395f3281332e2"</string>
+			<string>identifier "com.apple.kext.AMDRadeonX6300HWLibs" and anchor apple</string>
 		</dict>
 		<key>PlugIns/AMDRadeonX6700HWLibs.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			2OaC3qQ4Ej72tbYFd4O3t+NQCeI=
+			IAGYC6/N1QkwDkcBQPvd3ukyOXY=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"c9e8e0b6e9c0efefef84e3aaf2bfa98d5f08ef09" or cdhash H"d8e682dea438123ef6b5b6057783b7b7e35009e2"</string>
+			<string>identifier "com.apple.kext.AMDRadeonX6700HWLibs" and anchor apple</string>
 		</dict>
 		<key>PlugIns/AMDRadeonX6800HWLibs.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5uRLysw0mJ9eL86e/IDpfIZxq0U=
+			FE3qeQwlbMshPpPqVz49gmUghBc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"370c4b57fc9833cc62043d437ed35e7b78f5d4b4" or cdhash H"e6e44bcacc34989f5e2fce9efc80e97c8671ab45"</string>
+			<string>identifier "com.apple.kext.AMDRadeonX6800HWLibs" and anchor apple</string>
 		</dict>
 		<key>PlugIns/AMDRadeonX6810HWLibs.kext</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Hba4wUbi1uzIuYgfPd+qtjuzfsg=
+			agPeJEP7VlMWlfYU8XR95/qNXSQ=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"bf484fc72463d69eadee80b07056a75bf5b82928" or cdhash H"1db6b8c146e2d6ecc8b9881f3ddfaab63bb37ec8"</string>
+			<string>identifier "com.apple.kext.AMDRadeonX6810HWLibs" and anchor apple</string>
 		</dict>
 		<key>version.plist</key>
 		<dict>

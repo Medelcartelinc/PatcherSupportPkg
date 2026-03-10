@@ -3,201 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>files</key>
-	<dict>
-		<key>version.plist</key>
-		<data>
-		bFNTNr4/8ksFhYLNntknW33nnLU=
-		</data>
-	</dict>
+	<dict/>
 	<key>files2</key>
-	<dict>
-		<key>PlugIns/AMDRadeonX4000HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			Ei/TuhXTFb75utwyaeGd037GfQE=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"8065019b0938eb132bb19c82bb32398fb30a323b" or cdhash H"122fd3ba15d315bef9badc3269e19dd37ec67d01"</string>
-		</dict>
-		<key>PlugIns/AMDRadeonX4030HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			p+om1pJlhVuhhQ/NVR94NiL4zXM=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"7fdf906c5280627ae3c40d352939f05898eb204c" or cdhash H"a7ea26d69265855ba1850fcd551f783622f8cd73"</string>
-		</dict>
-		<key>PlugIns/AMDRadeonX4050HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			558e2426t74WEHYoCGwphJByQ4s=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"b5e620fc4f9a37a50123444ddc5e4aa275369364" or cdhash H"e79f1edb8dbab7be16107628086c29849072438b"</string>
-		</dict>
-		<key>PlugIns/AMDRadeonX4070HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			tMeM0ZninW7c/dlKOGXZURHBZ2w=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"f54f742bd764750671dc12c15c3a7a2d11437931" or cdhash H"b4c78cd199e29d6edcfdd94a3865d95111c1676c"</string>
-		</dict>
-		<key>PlugIns/AMDRadeonX4100HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			fOmVB80jaYHF6sVNSjCQfQuGJXE=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"12ea704ba3c74362da67798a6d4f05a43791d0c4" or cdhash H"7ce99507cd236981c5eac54d4a30907d0b862571"</string>
-		</dict>
-		<key>PlugIns/AMDRadeonX4200HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			oVi85Goyu4aNKTKCLSYsw9l4IYw=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"be07bab77cbd4c43c16a8cfafe10c3374b65299e" or cdhash H"a158bce46a32bb868d2932822d262cc3d978218c"</string>
-		</dict>
-		<key>PlugIns/AMDRadeonX4400HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			MJkpjQyTQK0CCszW05lxSTLBZOo=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"cecc7259f3a70e6982cfdf1525e8d39f0ac10328" or cdhash H"3099298d0c9340ad020accd6d399714932c164ea"</string>
-		</dict>
-		<key>PlugIns/AMDRadeonX4700HWLibs.kext</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			rsSO4qRLTVCMssFlES7C6ve/mRo=
-			</data>
-			<key>requirement</key>
-			<string>cdhash H"211e1bf2ac54487f5231c17a0e8d7dd97bb657ad" or cdhash H"aec48ee2a44b4d508cb2c165112ec2eaf7bf991a"</string>
-		</dict>
-		<key>version.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bFNTNr4/8ksFhYLNntknW33nnLU=
-			</data>
-			<key>hash2</key>
-			<data>
-			G+5FqGPEhaXidQabiICHxuLhJWYXDEG8KOHVO28fURo=
-			</data>
-		</dict>
-	</dict>
+	<dict/>
 	<key>rules</key>
 	<dict>
-		<key>^Resources/</key>
-		<true/>
-		<key>^Resources/.*\.lproj/</key>
-		<dict>
-			<key>optional</key>
-			<true/>
-			<key>weight</key>
-			<real>1000</real>
-		</dict>
-		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<key>^PlugIns/</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>1100</real>
+			<real>200</real>
 		</dict>
-		<key>^Resources/Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
-		<key>^version.plist$</key>
-		<true/>
 	</dict>
 	<key>rules2</key>
 	<dict>
-		<key>.*\.dSYM($|/)</key>
-		<dict>
-			<key>weight</key>
-			<real>11</real>
-		</dict>
-		<key>^(.*/)?\.DS_Store$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>2000</real>
-		</dict>
 		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
 		<dict>
 			<key>nested</key>
 			<true/>
 			<key>weight</key>
-			<real>10</real>
+			<real>0.0</real>
 		</dict>
-		<key>^.*</key>
-		<true/>
-		<key>^Info\.plist$</key>
+		<key>^PlugIns/</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
-			<real>20</real>
-		</dict>
-		<key>^PkgInfo$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
-		<key>^Resources/</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
-		<key>^Resources/.*\.lproj/</key>
-		<dict>
-			<key>optional</key>
-			<true/>
-			<key>weight</key>
-			<real>1000</real>
-		</dict>
-		<key>^Resources/.*\.lproj/locversion.plist$</key>
-		<dict>
-			<key>omit</key>
-			<true/>
-			<key>weight</key>
-			<real>1100</real>
-		</dict>
-		<key>^Resources/Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
-		</dict>
-		<key>^embedded\.provisionprofile$</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
-		<key>^version\.plist$</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
+			<real>200</real>
 		</dict>
 	</dict>
 </dict>
