@@ -1911,10 +1911,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Z8C8u0f4O1iM2LXqjwICGa/tQUU=
+			wwqbQPT688hIgL8ua5KSFERbens=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dock.controls" and anchor apple</string>
+			<string>cdhash H"c30a9b40f4faf3c84880bf2e6b929214445b7a7b"</string>
 		</dict>
 		<key>Resources/Dock.8</key>
 		<dict>
@@ -4428,55 +4428,55 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			F6QlWevu6wRikULC+e6ckNF46Ak=
+			bpewkH4VxRpJ23J/SR9h9Q/W/RA=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dock.helper" and anchor apple</string>
+			<string>cdhash H"6e97b0907e15c51a49db727f491f61f50fd6fd10"</string>
 		</dict>
 		<key>XPCServices/com.apple.dock.ecap.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5HkXBkx7rTDbZiS8F2Lt8kEAy8k=
+			RX3PfEME3/cZfMEDt8V7ae/tmdg=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dock.ecap" and anchor apple</string>
+			<string>cdhash H"457dcf7c4304dff7197cc103b7c57b69efed99d8"</string>
 		</dict>
 		<key>XPCServices/com.apple.dock.ecti.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			y54DXlUYrJMkIDdsFDfZUHgo37U=
+			rlcB0A0eWxMKVcoI/vDA8xu7Wwg=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dock.ecti" and anchor apple</string>
+			<string>cdhash H"ae5701d00d1e5b130a55ca08fef0c0f31bbb5b08"</string>
 		</dict>
 		<key>XPCServices/com.apple.dock.external.extra.arm64.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			zFZGimLEvT6IumpPd30UF7oAKR8=
+			3yEEVkqBDTdGE/SBhvFuR5b0ABA=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dock.external.extra.arm64" and anchor apple</string>
+			<string>cdhash H"df2104564a810d374613f48186f16e4796f40010"</string>
 		</dict>
 		<key>XPCServices/com.apple.dock.external.extra.x86_64.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			ffMradml6fpczfflObEK+2qprP0=
+			vuf0S+hWzWldh9RFHnrbcTKB0B0=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dock.external.extra.x86_64" and anchor apple</string>
+			<string>cdhash H"bee7f44be856cd695d87d4451e7adb713281d01d"</string>
 		</dict>
 		<key>XPCServices/com.apple.dock.extra.xpc</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			1ETGKXxKW2Qf4I1tkTdCltGO7Lk=
+			qXNkzBUFvuO7/sAxf+lueQ2KaiM=
 			</data>
 			<key>requirement</key>
-			<string>identifier "com.apple.dock.extra" and anchor apple</string>
+			<string>cdhash H"a97364cc1505bee3bbfec0317fe96e790d8a6a23"</string>
 		</dict>
 		<key>version.plist</key>
 		<dict>
