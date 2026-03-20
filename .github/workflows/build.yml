@@ -40,7 +40,8 @@ jobs:
 
       # 6️⃣ Собрать DMG и подписать его
       - name: Build DMG
-        run: python3 Generate-DMG.command --sign
+       # run: python3 Generate-DMG.command --sign
+        run: python3 Generate-DMG.command
 
       # 7️⃣ Генерация SHA256
       - name: Generate Checksums
