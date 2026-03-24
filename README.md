@@ -2,7 +2,7 @@
 
 - Repo dedicated to Apple binaries used for patching macOS to run with legacy hardware.
 
-- PatcherSupportPkg (Synced with laobamac 2.0.0) with a restored AppleHDA for macOS Tahoe.
+- Synced with [`laobamac 2.0.0`](https://github.com/laobamac/PatcherSupportPkg/releases/tag/2.0.0) with a restored AppleHDA for macOS Tahoe.
 
 - The transition to APFS was made due to the removal of HFS+ support in macOS 26.4B1
 
