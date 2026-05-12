@@ -3,8 +3,8 @@
 A repository dedicated to Apple binaries used for patching macOS to run on legacy hardware.
 
 ### 📌 Key Features & Changes:
-* **Up to date:** Synced with [`laobamac 2.0.0`](https://github.com/laobamac/PatcherSupportPkg/releases/tag/2.0.0), featuring a restored `AppleHDA` specifically for macOS Tahoe.
-* **File System:** Transitioned completely to APFS due to the removal of HFS+ support starting in macOS 26.4 Beta 1.
+* **Up to date:** Synced with [`laobamac 2.0.0`](https://github.com), featuring a restored `AppleHDA` specifically for macOS Tahoe.
+* **File System:** The transition to APFS was made due to the removal of HFS+ support in macOS 26.4 Beta 1.
 * **Audio:** Added `AppleHDA` sourced from macOS 26.0 Beta 1.
 
 ---
